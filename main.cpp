@@ -13,3 +13,6 @@ string scrapeWebPage() {
 int fetchGoogleSearchResult() {
     return 0;
 }
+int fetchGoogleSearchanimeshsingh() {
+    return 0;
+}
