@@ -11,4 +11,5 @@ string scrapeWebPage() {
     return  "dummy";
 }
 void fetchGoogleSearchResult() {
+    return 0;
 }
