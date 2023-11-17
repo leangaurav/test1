@@ -3,6 +3,10 @@
 using namespace std;
 
 int main() {
-    cout << "hello";
+    cout << "hello" << scrapeWebPage();
     return 0;
+}
+
+string scrapeWebPage() {
+    return  "dummy";
 }
