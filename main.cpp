@@ -10,6 +10,6 @@ int main() {
 string scrapeWebPage() {
     return  "dummy";
 }
-void fetchGoogleSearchResult() {
+int fetchGoogleSearchResult() {
     return 0;
 }
