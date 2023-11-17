@@ -2,18 +2,28 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
     cout << "hello" << scrapeWebPage() << fetchGoogleSearchResult();
     cout << "hello from debasis";
     return 0;
 }
 
-string scrapeWebPage() {
-    return  "dummy";
+string scrapeWebPage()
+{
+    return "dummy";
 }
-int fetchGoogleSearchResult() {
+int fetchGoogleSearchResult()
+{
     return 0;
 }
-int fetchGoogleSearchanimeshsingh() {
+int fetchGoogleSearchanimeshsingh()
+{
     return 0;
+}
+string searchMyName()
+{
+    string result = "Sumit Dey";
+    printf("Searching your name.... ");
+    return result;
 }
